@@ -10,7 +10,7 @@ namespace SpaceGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("test");
         }
     }
 }
