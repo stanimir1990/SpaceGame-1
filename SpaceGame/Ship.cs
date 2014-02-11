@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SpaceGame
 {
+    //test
     public abstract class Ship
     {
         private int healthPoint;
